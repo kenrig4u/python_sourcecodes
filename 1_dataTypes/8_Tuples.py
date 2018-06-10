@@ -7,7 +7,7 @@ Created on Sat Jan 20 17:31:01 2018
 
 # Tuples are immutable which means you cannot update or change the values of tuple elements. 
 # Removing individual tuple elements is not possible
-# Entire tuple can be deleted suing del tuplename
+# Entire tuple can be deleted using del tuplename
 # Tuples are secured lists.
 
 tup = ('mango','papaya','orange',4,'grape','strawberry')
