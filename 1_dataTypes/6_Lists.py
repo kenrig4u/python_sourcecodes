@@ -2,7 +2,7 @@
 """
 Created on Sat Jan 20 12:05:28 2018
 
-@author: Arken
+@author: SilverDoe
 """
 
 # lists are ordered mutable sequences

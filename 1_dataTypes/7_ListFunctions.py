@@ -2,7 +2,7 @@
 """
 Created on Sat Jan 20 12:31:54 2018
 
-@author: Arken
+@author: SilverDoe
 """
 
 b = ['mango','strawberry','papaya','orange','grape']
