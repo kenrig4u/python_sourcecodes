@@ -5,6 +5,8 @@ Created on Sat Jan 20 17:31:01 2018
 @author: SilverDoe
 """
 
+
+
 # Tuples are immutable which means you cannot update or change the values of tuple elements. 
 # Removing individual tuple elements is not possible
 # Entire tuple can be deleted using del tuplename
